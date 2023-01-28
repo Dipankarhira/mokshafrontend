@@ -1,0 +1,25 @@
+.button {
+
+    height:
+    
+    3ren;
+    width:1ren;
+    
+    padding: 2rem; border-radius: 1.5rem;
+    
+    background:
+    
+    linear-gradient(
+    
+    -45deg, #9925ea, #338aff, #9925ea );
+    
+    
+    background-size: 100%; background-position: 90% 0; color: #ffffff;
+    
+    transition: background 0.8s;
+    
+    }
+    
+    .button:hover { background-position: 185% 50%;
+    
+    }
