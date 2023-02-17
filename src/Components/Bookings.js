@@ -31,7 +31,7 @@ const Bookings = () => {
   },[]);
 
   return (
-    <div className="container mt-5">
+    <div className="container table-responsive-sm mt-5">
        <table className="table table-dark table-striped">
         <thead>
           <tr>
